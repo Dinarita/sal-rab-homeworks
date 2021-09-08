@@ -49,5 +49,3 @@ function addInCartSumChange(sum, delta) {
 
     return newSumText;
 }
-
-git config --global http.sslCAInfo "
